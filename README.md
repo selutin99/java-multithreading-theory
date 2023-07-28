@@ -19,6 +19,7 @@
 15. [Ключевое слово synchronized](tutorials/15_synchronized.md) 
 16. [Synchronized, монитор, синхронизированные блоки](tutorials/16_мониторы.md) 
 17. [Методы wait и notify](tutorials/17_wait_notify.md) 
+18. [Практика №1](tutorials/18_практика.md) 
 
 ### Ссылки
 Данный конспект составлен на основе курса с канала [Vlad Zuev](https://www.youtube.com/@vladzuev10).
