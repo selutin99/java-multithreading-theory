@@ -21,6 +21,7 @@
 17. [Методы wait и notify](tutorials/17_wait_notify.md)
 18. [Практика №1](tutorials/18_практика.md)
 19. [Метод notifyAll](tutorials/19_notifyAll.md) 
+20. [Завершающий урок по synchronized](tutorials/20_synchronized.md) 
 
 ### Ссылки
 Данный конспект составлен на основе курса с канала [Vlad Zuev](https://www.youtube.com/@vladzuev10).
