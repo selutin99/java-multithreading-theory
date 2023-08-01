@@ -23,6 +23,7 @@
 19. [Метод notifyAll](tutorials/19_notifyAll.md) 
 20. [Завершающий урок по synchronized](tutorials/20_synchronized.md)
 21. [Lock, ReentrantLock](tutorials/21_reentrant_lock.md) 
+22. [Дополнительные возможности явных блокировок](tutorials/22_блокировки.md) 
 
 ### Ссылки
 Данный конспект составлен на основе курса с канала [Vlad Zuev](https://www.youtube.com/@vladzuev10).
