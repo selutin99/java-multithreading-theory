@@ -2,7 +2,7 @@ import java.util.concurrent.TimeUnit;
 
 public class PrintingTask implements Runnable {
 
-    private boolean shouldPrint = true;
+    private volatile boolean shouldPrint = true;
 
     @Override
     public void run() {
