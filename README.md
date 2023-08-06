@@ -27,6 +27,7 @@
 23. [Condition](tutorials/23_condition.md) 
 24. [Дополнительные возможности Condition](tutorials/24_condition.md) 
 25. [ReentrantReadWriteLock](tutorials/25_reentrant_read_write_lock.md) 
+26. [Volatile](tutorials/26_volatile.md) 
 
 ### Ссылки
 Данный конспект составлен на основе курса с канала [Vlad Zuev](https://www.youtube.com/@vladzuev10).
