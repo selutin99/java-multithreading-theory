@@ -30,6 +30,7 @@
 26. [Volatile](tutorials/26_volatile.md) 
 27. [Deadlock](tutorials/27_deadlock.md) 
 28. [Livelock](tutorials/28_livelock.md) 
+28. [Недостатки замковой защиты + CAS](tutorials/29_cas.md) 
 
 ### Ссылки
 Данный конспект составлен на основе курса с канала [Vlad Zuev](https://www.youtube.com/@vladzuev10).
